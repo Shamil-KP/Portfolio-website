@@ -47,10 +47,7 @@ const Projects = () => {
           <div className="project-card fade-up delay-300">
             <div className="project-header">
               <h3 className="project-title">The-V</h3>
-              <span className="project-status">
-                <span className="pulse-dot"></span>
-                <span style={{ color: 'var(--champagne)' }}>Ongoing</span>
-              </span>
+              <span className="project-status">Completed</span>
             </div>
             <div className="project-subtitle">Autonomous Waste Management Robot</div>
             <p className="project-desc">Autonomous urban waste collection robot featuring CV-based navigation, a robotic arm for pickup, AI material classification, IoT cloud dashboard, and self-charging docking system.</p>
@@ -60,6 +57,9 @@ const Projects = () => {
               <span className="tech-pill">IoT</span>
               <span className="tech-pill">OpenCV</span>
             </div>
+            <a href="https://github.com/MotridoxRobotics/THE-V" target="_blank" rel="noopener noreferrer" className="project-link">
+              View Repository <IconArrowUpRight size={16} />
+            </a>
           </div>
 
         </div>

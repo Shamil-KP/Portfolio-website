@@ -28,13 +28,15 @@ const Navbar = () => {
         </a>
         <div className={`nav-links ${isMenuOpen ? 'active' : ''}`}>
           <a href="#about" onClick={closeMenu}>About</a>
-          <a href="#experience" onClick={closeMenu}>Experience</a>
+          <a href="#industry-exposure" onClick={closeMenu}>Industry Exposure</a>
+          <a href="#leadership" onClick={closeMenu}>Leadership</a>
           <a href="#projects" onClick={closeMenu}>Projects</a>
           <a href="#research" onClick={closeMenu}>Research</a>
           <a href="#contact" onClick={closeMenu}>Contact</a>
           <a 
-            href="/Mohammed_Shamil_CV.pdf" 
-            download 
+            href="https://drive.google.com/file/d/1784GdBJ3y_79i3cvJ0eSlzd8EN1eVM27/view?usp=sharing" 
+            target="_blank"
+            rel="noopener noreferrer"
             className="btn-nav-download"
             onClick={closeMenu}
           >

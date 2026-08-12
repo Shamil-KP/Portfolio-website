@@ -21,15 +21,11 @@ const Hero = () => {
           <div className="hero-actions fade-up delay-300">
             <a href="#contact" className="btn btn-primary">Get in Touch</a>
             <a href="#projects" className="btn btn-outline">View Projects</a>
-            <a href="/Mohammed_Shamil_CV.pdf" download className="btn btn-outline">
+            <a href="https://drive.google.com/file/d/1784GdBJ3y_79i3cvJ0eSlzd8EN1eVM27/view?usp=sharing" target="_blank" rel="noopener noreferrer" className="btn btn-outline">
               Download CV <IconArrowDown size={18} />
             </a>
           </div>
           <div className="hero-stats fade-up delay-300">
-            <div className="stat-item">
-              <span className="stat-number">3+</span>
-              <span className="stat-label">Years in Robotics</span>
-            </div>
             <div className="stat-item">
               <span className="stat-number">3</span>
               <span className="stat-label">Projects</span>

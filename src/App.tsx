@@ -2,7 +2,8 @@ import { useFadeUp } from './hooks/useFadeUp';
 import Navbar from './components/Navbar';
 import Hero from './components/Hero';
 import About from './components/About';
-import Experience from './components/Experience';
+import IndustryExposure from './components/IndustryExposure';
+import Leadership from './components/Leadership';
 import Projects from './components/Projects';
 import Research from './components/Research';
 import Certifications from './components/Certifications';
@@ -18,7 +19,8 @@ function App() {
       <Navbar />
       <Hero />
       <About />
-      <Experience />
+      <IndustryExposure />
+      <Leadership />
       <Projects />
       <Research />
       <Certifications />
