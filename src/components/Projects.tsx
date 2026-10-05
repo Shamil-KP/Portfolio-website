@@ -50,12 +50,15 @@ const Projects = () => {
               <span className="project-status">Completed</span>
             </div>
             <div className="project-subtitle">Autonomous Waste Management Robot</div>
-            <p className="project-desc">Autonomous urban waste collection robot featuring CV-based navigation, a robotic arm for pickup, AI material classification, IoT cloud dashboard, and self-charging docking system.</p>
+            <p className="project-desc">Built an autonomous waste collection and segregation robot using computer vision and robotics. Implemented camera navigation, obstacle avoidance, and mobile-app waste classification using TensorFlow and Google Teachable Machine.</p>
             <div className="project-tech">
-              <span className="tech-pill">Computer Vision</span>
-              <span className="tech-pill">AI/ML</span>
+              <span className="tech-pill">Raspberry Pi</span>
+              <span className="tech-pill">TensorFlow</span>
+              <span className="tech-pill">Google Teachable Machine</span>
+              <span className="tech-pill">Flutter</span>
               <span className="tech-pill">IoT</span>
-              <span className="tech-pill">OpenCV</span>
+              <span className="tech-pill">Robotics</span>
+              <span className="tech-pill">Embedded Systems</span>
             </div>
             <a href="https://github.com/MotridoxRobotics/THE-V" target="_blank" rel="noopener noreferrer" className="project-link">
               View Repository <IconArrowUpRight size={16} />

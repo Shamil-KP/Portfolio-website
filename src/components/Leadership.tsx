@@ -8,12 +8,12 @@ const Leadership = () => {
         <h2 className="section-title fade-up">Extracurricular & Leadership</h2>
         <div className="timeline">
           <div className="timeline-item fade-up delay-100">
-            <div className="timeline-date">Jan 2023 – Present</div>
+            <div className="timeline-date">Jan 2023 – May 2026</div>
             <div className="timeline-content">
-              <h3>Team Member, Motridox Robotics</h3>
-              <span className="timeline-role">Student Robotics Group | Manjeri, Kerala</span>
+              <h3>Motridox Robotics</h3>
+              <span className="timeline-role">Embedded Systems & Hardware Lead | Student Robotics Group, Malappuram, Kerala</span>
               <p className="timeline-desc">
-                Collaborated with a student-led robotics team on IoT, embedded systems, robotics, and automation projects. Contributed to hardware development, programming, system integration, and technical documentation. Participated in hackathons and technical innovation programs.
+                Led hardware design and embedded software for custom robotic prototypes in a student robotics group based in Malappuram, Kerala. Responsibilities included electronic hardware assembly, microcontroller programming, sensor integration, and system debugging. Authored technical reports and comprehensive documentation.
               </p>
               <div className="achievement-badges">
                 <span className="badge"><IconTrophy size={16} /> 2nd Place — Zilkathon Hackathon</span>

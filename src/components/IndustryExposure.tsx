@@ -10,10 +10,10 @@ const IndustryExposure = () => {
           <div className="timeline-item fade-up delay-100">
             <div className="timeline-date">Jan 2026</div>
             <div className="timeline-content">
-              <h3>Tessient</h3>
-              <span className="timeline-role">Fintech Industry Exposure Programme</span>
+              <h3>International Exposure Programme – Tessient</h3>
+              <span className="timeline-role">Selected Participant | Dubai, UAE</span>
               <p className="timeline-desc">
-                Gained international industry exposure through a professional programme at Tessient, a fintech company based in Dubai. Worked with Java, Spring Boot, PostgreSQL, Git, and Postman while developing and testing a Card API project. Set up development environments using IntelliJ IDEA, configured databases, created Git repositories and branches, and implemented REST API functionality. Gained practical exposure to REST APIs, Spring Initializr, database integration, and API testing using Postman. Participated in a professional client meeting and gained insight into the fintech and digital payments ecosystem.
+                Acquired exposure to the global industry through participation in a professional programme offered by Tessient, a fintech company based in Dubai. Developed a Card API using Java, Spring Boot, PostgreSQL, Git, REST APIs, and Postman, including development and API testing. Attended a professional client meeting, gaining exposure to the global workplace.
               </p>
               <div className="tech-pills">
                 <span className="tech-pill">Java</span>
@@ -21,7 +21,6 @@ const IndustryExposure = () => {
                 <span className="tech-pill">PostgreSQL</span>
                 <span className="tech-pill">Git</span>
                 <span className="tech-pill">Postman</span>
-                <span className="tech-pill">IntelliJ IDEA</span>
                 <span className="tech-pill">REST API</span>
               </div>
               <div className="achievement-badges">

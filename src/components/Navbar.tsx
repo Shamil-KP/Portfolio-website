@@ -28,6 +28,7 @@ const Navbar = () => {
         </a>
         <div className={`nav-links ${isMenuOpen ? 'active' : ''}`}>
           <a href="#about" onClick={closeMenu}>About</a>
+          <a href="#experience" onClick={closeMenu}>Experience</a>
           <a href="#industry-exposure" onClick={closeMenu}>Industry Exposure</a>
           <a href="#leadership" onClick={closeMenu}>Leadership</a>
           <a href="#projects" onClick={closeMenu}>Projects</a>
